@@ -1,7 +1,3 @@
-//
-// Created by cedric on 7/22/20.
-//
-
 #ifndef EMBSYS_EX2_CSV_H
 #define EMBSYS_EX2_CSV_H
 

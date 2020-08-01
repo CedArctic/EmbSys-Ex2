@@ -1,7 +1,3 @@
-//
-// Created by cedric on 7/22/20.
-//
-
 #include "csv.h"
 
 // Write row major array to csv

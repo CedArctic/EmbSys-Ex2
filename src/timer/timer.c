@@ -1,6 +1,3 @@
-//
-// Created by cedric on 17/7/20.
-//
 #include "timer.h"
 
 // Timer constructor

@@ -1,7 +1,3 @@
-//
-// Created by cedric on 17/7/20.
-//
-
 #include "queue.h"
 
 // Queue Constructor

@@ -1,7 +1,3 @@
-//
-// Created by cedric on 17/7/20.
-//
-
 #ifndef EMBSYS_EX2_QUEUE_H
 #define EMBSYS_EX2_QUEUE_H
 
